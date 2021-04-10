@@ -1,0 +1,33 @@
+.paginate-list {
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+    li {
+        &:before {
+        font-weight: bold;
+        color: slategray;
+        }
+    }
+  }
+
+  .paginate-links.products {
+    a {
+        cursor: pointer;
+        &:hover {
+            background: $primary-end;
+            color: white;
+        }
+    }
+    li.active a {
+      font-weight: bold;
+    }
+    li.next:before {
+      content: ' | ';
+      margin-right: 13px;
+      color: #ddd;
+    }
+    li.disabled a {
+      color: #ccc;
+      cursor: no-drop;
+    }
+  }
