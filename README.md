@@ -41,8 +41,6 @@
  
 - **Job and commands**
    * -php artisan queue:work
-   * -php artisan payment:orders
-   * -php artisan report:excel
 
 -  **Create admin user**
    * -php artisan admin:create
