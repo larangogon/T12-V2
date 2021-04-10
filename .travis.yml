@@ -25,11 +25,6 @@ script:
 notifications:
     email:
         recipients:
-            - devalexandrecr@gmail.com
+            - johannitaarango2@gmail.com
         on_success: never
-        on_failure: always
-    slack:
-        secure: "Y2QGoSzOvPPJtcS9LjKSFGKTjZgEufhhJRc47xmp0q1Wf6BRXVIfsRTEet5BajH7vFbA1cXnh8e8mrcULAXjghLT5CSksPlW/oVg7UFN49mcnEFz6zwD1pQMOAJKyHfu13X5T7A06H1Gz8jsQl7ud5PSMRru6jmQqXu
-        QN9xXD/TMoFrOGM1xT3SsPVT3WsQVJR0WXqhJTvoJCe77JvxF3odCmnzhhmvtgw1QAeW0tdtOx/1NPZ25L8iVrmjdW1Vkt/wPkH2HHNnMexBfJRuUjWPaBR9he2Uyc/XJRyj5Uu0DrsQTZQZ5p90/UY9V56EPgi7WfsDLwJ2rYJLGr
-        bhHAAdWKXOh+Lpb8SaHx9tyCt002FhfYjQa/sSutkVN4CinGdDd5nXnAVLHNf7Bv58dSQ+29RFcgBMNNTF+03BULopY+Bt8s7R9ajEUTwihdYl9GUNqBtawj0/cFtRiiYAQEPyune/tfuz9Z4AU9X/HFuPeoqo618El8sLlI20lKZ+
-        6UBXQFlwaE3SblPQQmB/eVisS6DsBN+rmQdpSK8YaiteBS/fwOS9hweMGOhFTZBQXRbK/P4coKeBBJkm2DAPv14Bfr1tXEfsvvmDUM3QwDUxmG8F770XeSa2T3+17LKKItEoldNTQQtg/3GPsAhipJJZxxja7NBw78cjZ5WymrvQ="
+        on_failure: always   
